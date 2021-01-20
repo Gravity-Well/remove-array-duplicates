@@ -1,12 +1,12 @@
 {
-  "name": "remove-array-duplicates",
+  "name": "rem-arr-dups",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["remove","array","duplicates"],
+  "author": "gravity-well <bobtomlin@gmail.com>",
   "license": "ISC"
 }
